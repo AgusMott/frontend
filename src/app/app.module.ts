@@ -6,7 +6,7 @@ import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
 import { ListaComponent } from './lista/lista.component';
 import { InfoComponent } from './info/info.component';
-import { LoginComponent } from './home/login/login.component';
+import { LoginComponent } from './login/login.component';
 
 @NgModule({
   declarations: [
